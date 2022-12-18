@@ -1,0 +1,9 @@
+{
+    "url": "https://shaikhyaser.github.io/swagger/xss-cred.yaml",
+    "urls": [
+        {
+            "url": "https://shaikhyaser.github.io/swagger/xss-cred.yaml",
+            "name": "Foo"
+        }
+    ]
+}
