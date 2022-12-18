@@ -1,8 +1,8 @@
 {
-    "url": "https://shaikhyaser.github.io/swagger/xss.yaml",
+    "url": "https://shaikhyaser.github.io/xss.yaml",
     "urls": [
         {
-            "url": "https://shaikhyaser.github.io/swagger/xss.yaml",
+            "url": "https://shaikhyaser.github.io/xss.yaml",
             "name": "Foo"
         }
     ]
